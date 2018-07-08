@@ -1,4 +1,9 @@
-/.settings
 /target
+/.settings
 /.classpath
 /.project
+/.idea
+*.iml
+*.ipr
+*.iws
+/committer-queue-test
